@@ -1,0 +1,3 @@
+/Users/kyra/CLionProjects/GetWeekday/cmake-build-debug/CMakeFiles/GetWeekday.dir
+/Users/kyra/CLionProjects/GetWeekday/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kyra/CLionProjects/GetWeekday/cmake-build-debug/CMakeFiles/rebuild_cache.dir
